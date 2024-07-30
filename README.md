@@ -1,0 +1,2 @@
+# Deep-Learning-For-Remote-Sensing-LULC-Classification-Unveiling-Insights-With-SHAP
+This repository features a deep learning model using a compact Convolutional Neural Network (CNN) and Shapley Additive Explanations (SHAPs) for efficient and interpretable Land Use and Land Cover (LULC) classification with Sentinel-2 imagery. It excels on the EuroSAT dataset and is designed for resource-limited settings.
