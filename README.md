@@ -18,7 +18,18 @@ This repository presents a deep learning framework for Land Use and Land Cover (
    cd BreadcrumbsDeep-Learning-For-Remote-Sensing-LULC-Classification-Unveiling-Insights-With-SHAP
 ## Acknowledgements
 
-1.Sentinel-2 imagery
+1.Sentinel-2 imagery \n 
 2.EuroSAT dataset
 3.Keras and TensorFlow libraries
 4.SHAP library
+## Requirements.txt
+'''rasterio
+numpy
+scikit-learn
+keras
+tensorflow
+matplotlib
+seaborn
+shap
+pandas
+
